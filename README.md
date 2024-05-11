@@ -47,18 +47,7 @@ This project provides a template for building a React application integrated wit
 
 1. **Start Ganache**: Ensure that Ganache is running before proceeding with migration.
 
-2. **Setup React App**:
-   ```bash
-   npx create-react-app my-react-app
-   cd my-react-app
-   ```
-
-3. **Create Constants Folder**: Inside the `src` folder, create a folder named `constants`.
-   ```bash
-   mkdir src/constants
-   ```
-
-4. **Add Contract Constants**: Inside the `constants` folder, create a file named `constants.js` containing the contract address and ABI.
+2. **Update constant.js**: Inside the `Constant` folder.
    ```javascript
    // src/constants/constants.js
    const contractConstants = {
