@@ -67,3 +67,24 @@ This project provides a template for building a React application integrated wit
 
 2. **View the App**: 
    Open your browser and go to `http://localhost:3000/` to view the React app.
+
+## Screenshots
+
+### Welcome Page
+![Welcome Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/welcome%20page.png?raw=true)
+
+### Admin Page
+![Admin Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/admin%20page.png?raw=true)
+
+### Candidate Registered
+![Candidate Registered](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/candidate%20data%20uploaded.png?raw=true)
+
+### User Page
+![User Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/user%20page.png?raw=true)
+
+### Voting Page
+![Voting Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/voting%20page.png?raw=true)
+
+### Voting Done
+![Voting Done](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/voting%20done.png?raw=true)
+
