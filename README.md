@@ -88,3 +88,6 @@ This project provides a template for building a React application integrated wit
 ### Voting Done
 ![Voting Done](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/voting%20done.png?raw=true)
 
+## Explanation 
+
+https://www.youtube.com/watch?v=fDWI0yzeOdw&list=PLvbB9_57RxMexOSOruXk-SzA47v9KGJa-
