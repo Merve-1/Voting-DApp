@@ -71,22 +71,22 @@ This project provides a template for building a React application integrated wit
 ## Screenshots
 
 ### Welcome Page
-![Welcome Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/welcome%20page.png?raw=true)
+![image](https://github.com/user-attachments/assets/77222ca0-a575-402c-94eb-bf4723951c2e)
 
 ### Admin Page
-![Admin Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/admin%20page.png?raw=true)
+![image](https://github.com/user-attachments/assets/6eaa51d2-e90d-41e7-ba73-f9b6b20d345f)
 
 ### Candidate Registered
-![Candidate Registered](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/candidate%20data%20uploaded.png?raw=true)
+![image](https://github.com/user-attachments/assets/eb889cba-09f3-46c2-b996-f4f4092839ec)
 
 ### User Page
-![User Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/user%20page.png?raw=true)
+![image](https://github.com/user-attachments/assets/b3cf31a6-67a1-431c-aa64-562bf41d6974)
 
 ### Voting Page
-![Voting Page](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/voting%20page.png?raw=true)
+![image](https://github.com/user-attachments/assets/e6c49039-257c-414f-822f-9cb415125540)
 
 ### Voting Done
-![Voting Done](https://github.com/Merve-1/VotingDapp/blob/main/screenshots/voting%20done.png?raw=true)
+![image](https://github.com/user-attachments/assets/959c5e6a-3cd2-405e-bd51-dfe97c7f5f88)
 
 ## Explanation 
 
